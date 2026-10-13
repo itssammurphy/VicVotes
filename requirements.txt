@@ -3,3 +3,5 @@ matplotlib
 jupyterlab
 requests
 beautifulsoup4
+folium
+openpyxl
